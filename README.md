@@ -1,2 +1,2 @@
-# dev-journey
-My developer journey
+# My Dev Journey 🚀
+This repo tracks my learning journey
