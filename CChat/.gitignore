@@ -1,0 +1,13 @@
+# execution file
+server
+client
+*.out
+*.exe
+
+# object file
+*.o
+
+# Mac / IDE setup file
+.DS_Store
+.vscode/
+
